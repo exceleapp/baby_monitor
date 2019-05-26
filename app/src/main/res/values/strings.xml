@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Baby Monitor</string>
+    <string name="parent_device">Parent Device</string>
+    <string name="use_this_device_as_parenting_devices">Use this device as parenting devices.</string>
+    <string name="child_device">Child Device</string>
+    <string name="use_this_device_as_monitor_devices">Use this device as monitor devices.</string>
+    <string name="stopped">Berhenti</string>
+    <string name="todo">Baby Icon</string>
+</resources>

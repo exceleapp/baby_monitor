@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/bgdash"
+    android:theme="@android:style/Theme.Black.NoTitleBar"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SplashScreen"
+    android:id="@+id/splash_screen">
+
+    <ImageView
+        android:src="@drawable/baby"
+        android:layout_width="190dp"
+        android:layout_height="190dp"
+        android:id="@+id/splash"
+        android:textSize="30sp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="180dp"
+        android:contentDescription="@string/todo" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:fontFamily="@font/abhaya_libre"
+        android:text="My Baby Monitor"
+        android:textColor="@color/Orange"
+        android:textSize="35sp" />
+
+    <ProgressBar
+        android:id="@+id/progresBar"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="100dp"/>
+
+</RelativeLayout>

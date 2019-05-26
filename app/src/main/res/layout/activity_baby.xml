@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@drawable/bgdash"
+    tools:context=".BabyActivity">
+
+    <android.support.v7.widget.CardView
+        android:foreground="?android:attr/selectableItemBackground"
+        android:clickable="true"
+        android:layout_width="380dp"
+        android:layout_height="650dp"
+        android:layout_margin="27dp"
+        app:cardElevation="10dp"
+        app:cardCornerRadius="8dp"
+        android:layout_gravity="center">
+        <LinearLayout
+            android:background="#ffffff"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:orientation="vertical"
+            >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:padding="13dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Bayi"
+                    android:layout_marginTop="15dp"
+                    android:textColor="#000"
+                    android:textSize="22sp" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="260dp"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/tombol"
+                    android:text="Sambung"
+                    android:textAllCaps="false" />
+            </RelativeLayout>
+
+
+    <TextView
+        android:id="@+id/status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:textColor="@color/dot_dark_screen1"
+        android:layout_marginBottom="20dp"
+        android:textStyle="bold"
+        android:text="@string/stopped"/>
+
+    <!--<ProgressBar-->
+        <!--android:id="@+id/progressBar1"-->
+        <!--style="?android:attr/progressBarStyleHorizontal"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:indeterminateTint="@color/dot_dark_screen1"-->
+        <!--android:backgroundTint="@color/dot_dark_screen1"-->
+        <!--android:progressBackgroundTint="@color/dot_dark_screen1"-->
+        <!--android:progressTint="@color/dot_dark_screen1"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:max="110" />-->
+
+            <android.support.v7.widget.CardView
+                android:layout_width="300dp"
+                android:layout_height="400dp"
+                android:layout_marginBottom="20dp"
+                android:layout_gravity="center"
+                app:cardBackgroundColor="#ffff"
+                app:cardCornerRadius="5dp"
+                app:cardElevation="5dp">
+                
+                
+                <ImageView
+                    android:id="@+id/turu"
+                    android:layout_gravity="center"
+                    android:layout_width="230dp"
+                    android:background="@mipmap/tidur"
+                    android:layout_height="150dp" />
+
+            </android.support.v7.widget.CardView>
+
+    <com.sasank.roundedhorizontalprogress.RoundedHorizontalProgressBar
+        android:id="@+id/progressBar1"
+        android:layout_gravity="center"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="350dp"
+        android:layout_height="18dp"
+        android:indeterminate="false"
+        android:maxHeight="12dp"
+        android:minHeight="12dp"
+        app:backgroundColor="#F7D794"
+        app:progressColor="@color/dot_dark_screen1"
+        android:max="110"/>
+
+    <TextView
+        android:id="@+id/tv_noise"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textColor="@color/dot_dark_screen1"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+   
+
+
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+</LinearLayout>

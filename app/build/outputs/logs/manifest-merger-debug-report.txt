@@ -1,0 +1,244 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:2:1-41:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\3ca88e44e84a3fc0b2a600a644e3719a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.synnapps:carouselview:0.1.4] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\ab33dfdce9e6d2c112418df79caa90a8\AndroidManifest.xml:2:1-16:12
+MERGED from [com.sasank.roundedhorizontalprogress:roundedhorizontalprogress:1.0.1] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\66edd5ef2fb5b438118d14b81513237f\AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\52d09c4b1dfb5f9f7f0dbbf8aa2b3154\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\b8e87c21a932a5c0b85540feaf2dd065\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\f920dbd032fcdcd7fcf015a0178f65e0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\736a10759d0c105d1d7516a3f5591c1b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\8a5b34ff551ca9bcd068d34486b0bc2b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\c3617d1b691c86741a9ad754ef19b5fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\4deb284c3bf344f4c18e5c047c7dd0dc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\75ab6825d4d9e8e4f91f3d0436077740\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\7ff8f02b6eff0b8ef42f23da635be0ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\21972094cc8f6cac1574d2cf5420c502\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\d9da5aa4711772da38a4c52da18c4f97\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\2353187f2df50afc3a5a1ae228d8fb7d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\12d4f210362909415a4edb28aac06dd6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\444a7476b57b8fe8386c918a4e7b2348\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\b8953d19c5165022aacd15a6b84a7b9b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\381e23ea35b36a9387c305ef2d70887a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\e20b148600618a6d252f0c2cff2aa523\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\d1d4a3679abc330aa3146c9742de8a32\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\262c9235d2cadf504f825a5b3c373f8e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\f2c0170ad3d34d6eedf7dcd91d853bac\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\e2201b751beb13fb2b419ea1fcf92910\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\38d36755100b16df9a218bb52c23bc74\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\b8aaa723601d57f72528894a9e6674fa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\41803dfcd2ce128558b134c70f954a74\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\0dc3f5a1c721358a63376148428755d3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\797d72ded47ca0273ba2de85dc3cf365\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\9f40e2180c8cbde8f015dcc978d0f86b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\84961359062043aa0ef87726c1778ec7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\41410e618822d80a8b727b5b32f81715\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\52c5ff816e1e5b216bfcd86fc8c9c8c7\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml
+		ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml
+		ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.bluetooth
+ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:5:5-63
+	android:name
+		ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:5:19-60
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:6:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:7:5-74
+	android:name
+		ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:7:22-71
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:9:5-71
+	android:name
+		ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:9:22-68
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:10:22-65
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:12:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.INTERNET
+ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:14:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:15:22-76
+application
+ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:18:5-39:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\3ca88e44e84a3fc0b2a600a644e3719a\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\3ca88e44e84a3fc0b2a600a644e3719a\AndroidManifest.xml:22:5-20
+MERGED from [com.synnapps:carouselview:0.1.4] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\ab33dfdce9e6d2c112418df79caa90a8\AndroidManifest.xml:11:5-14:19
+MERGED from [com.synnapps:carouselview:0.1.4] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\ab33dfdce9e6d2c112418df79caa90a8\AndroidManifest.xml:11:5-14:19
+MERGED from [com.sasank.roundedhorizontalprogress:roundedhorizontalprogress:1.0.1] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\66edd5ef2fb5b438118d14b81513237f\AndroidManifest.xml:11:5-15:19
+MERGED from [com.sasank.roundedhorizontalprogress:roundedhorizontalprogress:1.0.1] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\66edd5ef2fb5b438118d14b81513237f\AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\b8e87c21a932a5c0b85540feaf2dd065\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\b8e87c21a932a5c0b85540feaf2dd065\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\262c9235d2cadf504f825a5b3c373f8e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\262c9235d2cadf504f825a5b3c373f8e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\f2c0170ad3d34d6eedf7dcd91d853bac\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\f2c0170ad3d34d6eedf7dcd91d853bac\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\262c9235d2cadf504f825a5b3c373f8e\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:23:9-35
+	android:label
+		ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:21:9-41
+	android:roundIcon
+		ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:22:9-54
+	android:icon
+		ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:20:9-38
+	android:allowBackup
+		ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:24:9-59
+activity#com.example.mybabymonitor.BabyActivity
+ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:25:9-59
+	android:name
+		ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:25:19-47
+activity#com.example.mybabymonitor.ParentActivity
+ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:26:9-52
+	android:name
+		ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:26:19-49
+activity#com.example.mybabymonitor.WelcomeActivity
+ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:27:9-53
+	android:name
+		ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:27:19-50
+activity#com.example.mybabymonitor.SplashScreen
+ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:28:9-33:20
+	android:name
+		ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:28:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:29:13-32:29
+action#android.intent.action.MAIN
+ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:31:27-74
+activity#com.example.mybabymonitor.MainActivity
+ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:34:9-50
+	android:name
+		ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:34:19-47
+meta-data#preloaded_fonts
+ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:36:9-38:57
+	android:resource
+		ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:38:13-54
+	android:name
+		ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml:37:13-43
+uses-sdk
+INJECTED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml
+INJECTED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\3ca88e44e84a3fc0b2a600a644e3719a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\3ca88e44e84a3fc0b2a600a644e3719a\AndroidManifest.xml:20:5-44
+MERGED from [com.synnapps:carouselview:0.1.4] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\ab33dfdce9e6d2c112418df79caa90a8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.synnapps:carouselview:0.1.4] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\ab33dfdce9e6d2c112418df79caa90a8\AndroidManifest.xml:7:5-9:41
+MERGED from [com.sasank.roundedhorizontalprogress:roundedhorizontalprogress:1.0.1] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\66edd5ef2fb5b438118d14b81513237f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.sasank.roundedhorizontalprogress:roundedhorizontalprogress:1.0.1] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\66edd5ef2fb5b438118d14b81513237f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\52d09c4b1dfb5f9f7f0dbbf8aa2b3154\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\52d09c4b1dfb5f9f7f0dbbf8aa2b3154\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\b8e87c21a932a5c0b85540feaf2dd065\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\b8e87c21a932a5c0b85540feaf2dd065\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\f920dbd032fcdcd7fcf015a0178f65e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\f920dbd032fcdcd7fcf015a0178f65e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\736a10759d0c105d1d7516a3f5591c1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\736a10759d0c105d1d7516a3f5591c1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\8a5b34ff551ca9bcd068d34486b0bc2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\8a5b34ff551ca9bcd068d34486b0bc2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\c3617d1b691c86741a9ad754ef19b5fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\c3617d1b691c86741a9ad754ef19b5fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\4deb284c3bf344f4c18e5c047c7dd0dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\4deb284c3bf344f4c18e5c047c7dd0dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\75ab6825d4d9e8e4f91f3d0436077740\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\75ab6825d4d9e8e4f91f3d0436077740\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\7ff8f02b6eff0b8ef42f23da635be0ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\7ff8f02b6eff0b8ef42f23da635be0ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\21972094cc8f6cac1574d2cf5420c502\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\21972094cc8f6cac1574d2cf5420c502\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\d9da5aa4711772da38a4c52da18c4f97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\d9da5aa4711772da38a4c52da18c4f97\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\2353187f2df50afc3a5a1ae228d8fb7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\2353187f2df50afc3a5a1ae228d8fb7d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\12d4f210362909415a4edb28aac06dd6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\12d4f210362909415a4edb28aac06dd6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\444a7476b57b8fe8386c918a4e7b2348\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\444a7476b57b8fe8386c918a4e7b2348\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\b8953d19c5165022aacd15a6b84a7b9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\b8953d19c5165022aacd15a6b84a7b9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\381e23ea35b36a9387c305ef2d70887a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\381e23ea35b36a9387c305ef2d70887a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\e20b148600618a6d252f0c2cff2aa523\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\e20b148600618a6d252f0c2cff2aa523\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\d1d4a3679abc330aa3146c9742de8a32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\d1d4a3679abc330aa3146c9742de8a32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\262c9235d2cadf504f825a5b3c373f8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\262c9235d2cadf504f825a5b3c373f8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\f2c0170ad3d34d6eedf7dcd91d853bac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\f2c0170ad3d34d6eedf7dcd91d853bac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\e2201b751beb13fb2b419ea1fcf92910\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\e2201b751beb13fb2b419ea1fcf92910\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\38d36755100b16df9a218bb52c23bc74\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\38d36755100b16df9a218bb52c23bc74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\b8aaa723601d57f72528894a9e6674fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\b8aaa723601d57f72528894a9e6674fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\41803dfcd2ce128558b134c70f954a74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\41803dfcd2ce128558b134c70f954a74\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\0dc3f5a1c721358a63376148428755d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\0dc3f5a1c721358a63376148428755d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\797d72ded47ca0273ba2de85dc3cf365\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\797d72ded47ca0273ba2de85dc3cf365\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\9f40e2180c8cbde8f015dcc978d0f86b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\9f40e2180c8cbde8f015dcc978d0f86b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\84961359062043aa0ef87726c1778ec7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\84961359062043aa0ef87726c1778ec7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\41410e618822d80a8b727b5b32f81715\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\41410e618822d80a8b727b5b32f81715\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\52c5ff816e1e5b216bfcd86fc8c9c8c7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\MBR\.gradle\caches\transforms-2\files-2.1\52c5ff816e1e5b216bfcd86fc8c9c8c7\AndroidManifest.xml:20:5-44
+INJECTED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml
+INJECTED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml
+		ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml
+		ADDED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Kuliah\Baby\babymonitor\babymonitor\app\src\main\AndroidManifest.xml

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@drawable/bgdash"
+    tools:context=".ParentActivity">
+
+    <android.support.v7.widget.CardView
+        android:foreground="?android:attr/selectableItemBackground"
+        android:clickable="true"
+        android:layout_width="380dp"
+        android:layout_height="650dp"
+        android:layout_margin="27dp"
+        app:cardElevation="10dp"
+        app:cardCornerRadius="8dp"
+        android:layout_gravity="center">
+        <LinearLayout
+            android:background="#ffffff"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:orientation="vertical"
+            >
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="100dp"
+                android:padding="13dp">
+
+                <TextView
+                    android:text="Orangtua"
+                    android:textColor="#000"
+                    android:layout_marginTop="15dp"
+                    android:textSize="22sp"
+                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"/>
+                <Button
+                    android:id="@+id/btnFind"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="150dp"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/tombol"
+                    android:text="Discover"
+                    android:textAllCaps="false" />
+
+                <ListView
+                    android:id="@+id/peerListView"
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_marginTop="25dp"
+                    android:visibility="invisible"
+                    android:background="@android:color/holo_orange_light" />
+
+                <Button
+                    android:id="@+id/btnConnect"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="260dp"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/tombol"
+                    android:text="Sambung"
+                    android:textAllCaps="false" />
+
+
+                <TextView
+                    android:id="@+id/status"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="25sp"
+                    android:textColor="@color/dot_dark_screen1"
+                    android:layout_marginTop="100dp"
+                    android:textStyle="bold"
+                    android:layout_centerHorizontal="true"
+                    android:text="Perangkat tidak terhubung"/>
+            </RelativeLayout>
+
+
+
+
+            <!--<ProgressBar-->
+            <!--android:id="@+id/progressBar1"-->
+            <!--style="?android:attr/progressBarStyleHorizontal"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:indeterminateTint="@color/dot_dark_screen1"-->
+            <!--android:backgroundTint="@color/dot_dark_screen1"-->
+            <!--android:progressBackgroundTint="@color/dot_dark_screen1"-->
+            <!--android:progressTint="@color/dot_dark_screen1"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:max="110" />-->
+            <android.support.v7.widget.CardView
+                android:layout_width="350dp"
+                android:layout_height="320dp"
+                android:layout_marginBottom="0dp"
+                android:layout_gravity="center"
+                app:cardBackgroundColor="#ffff"
+                app:cardCornerRadius="5dp"
+                app:cardElevation="5dp">
+
+                <android.support.design.widget.CoordinatorLayout
+                    xmlns:android="http://schemas.android.com/apk/res/android"
+                    xmlns:app="http://schemas.android.com/apk/res-auto"
+                    xmlns:tools="http://schemas.android.com/tools"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    tools:context=".ParentActivity">
+
+
+                    <include layout="@layout/content_main" />
+
+                </android.support.design.widget.CoordinatorLayout>
+            </android.support.v7.widget.CardView>
+
+
+
+
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+</LinearLayout>
